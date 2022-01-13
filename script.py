@@ -21,13 +21,13 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+Source: <a href='https://github.com/Maverick19850806/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/Maveriicckkk'>Harsh</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/Maveriicksworld'>Movies Masti Magic</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
@@ -46,7 +46,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- Maveriicckkk24*7 support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -54,7 +54,7 @@ Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/Maveriicckkk_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
